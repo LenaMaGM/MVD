@@ -8,6 +8,7 @@ As a fully decentralized dataspace is hard to imagine, the MVD also serves the p
 
 ## Documentation 
 
+
 Developer documentation can be found under [docs/developer](docs/developer/), where the main concepts and decisions are captured as [decision records](docs/developer/decision-records/).
 
 ## Create Dataspace Deployment
